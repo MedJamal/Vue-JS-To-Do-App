@@ -1,4 +1,6 @@
-# todo-app
+# Angular Todo App
+
+Simple VueJs Todo App
 
 ## Project setup
 ```
@@ -25,5 +27,4 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### For any informations: medjamal.ouazani@gmail.com
