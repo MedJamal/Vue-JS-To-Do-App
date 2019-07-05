@@ -1,4 +1,4 @@
-# Angular Todo App
+# Vue Todo App
 
 Simple VueJs Todo App
 
